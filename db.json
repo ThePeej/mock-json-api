@@ -1,0 +1,123 @@
+{
+  "events": [
+    {
+      "id" : 1,
+      "name" : "Susquehanna HFH ReStore cleanup",
+      "description" : "Assist in various to-do tasks to help the staff of Habitat for Humanity ReStore. Habitat for Humanity ReStores are nonprofit home improvement stores and donation centers that sell new and gently used furniture, home accessories, building materials and appliances to the public at a fraction of the retail price. Habitat for Humanity ReStores are proudly owned and operated by local Habitat for Humanity affiliates. Proceeds are used to build homes and improve communities locally and around the world.",
+      "img" : "https://www.habitatcamden.org/wp-content/uploads/elementor/thumbs/habitat-restore-camden-shop-sign-furniture2_max-o0c11x90lk6zozw6s37221zbzu6k21vmor6zovqg24.jpg",
+      "website" : "https://www.habitat.org/us-md/bel-air/susquehanna-hfh",
+      "contact" : "kblandford@habitatsusq.org",
+      "date" : "2020-01-02T13:30:00.000Z",
+      "address" : {
+        "street" : "205 S Hays St",
+        "city" : "Bel Air",
+        "state" : "MD"
+      },
+      "categories" : ["community", "non-profit"],
+      "volunteers" : 3,
+      "volunteersNeeded" : 5
+    },
+    {
+      "id" : 2,
+      "name" : "Cat cuddling with Maryland SPCA",
+      "description" : "“Cat Cuddler” volunteers help ensure the health and safety of cats and kittens in our care. They work with staff to provide cats socialization and enrichment as well as show them to potential adopters.\nWith the support of the volunteer manager and coordinator, Cat Cuddlers provide socialization and enrichment for the cats. They also facilitate introductions to potential adopters.",
+      "img" : "https://www.simplemost.com/wp-content/uploads/2017/05/AdobeStock_75544998-750x500.jpeg",
+      "website" : "https://www.mdspca.org/volunteer/cat-cuddler/",
+      "contact" : "410-235-8826",
+      "date" : "2020-02-29T18:30:00.000Z",
+      "address" : {
+        "street" : "3300 Falls Road",
+        "city" : "Baltimore",
+        "state" : "MD"
+      },
+      "categories" : ["animal","non-profit"],
+      "volunteers" : 3,
+      "volunteersNeeded" : 3
+    },
+    {
+      "id" : 3,
+      "name" : "The Arc NCR Treatment Foster Care Night",
+      "description" : "Treatment Foster Care (TFC) provides therapeutic foster homes to foster children from birth to age twenty-one who may be diagnosed with emotional/behavior disorders, intellectual and/or developmental disabilities; this includes our medically fragile and teen mother-baby programs. TFC Nights equip foster parents and families with the skills and knowledge to better care for their foster children, and volunteers help by investing time in various activities with the foster children.",
+      "img" : "https://scontent.fewr1-4.fna.fbcdn.net/v/t31.0-8/460538_10150598248220952_113977597_o.jpg?_nc_cat=107&_nc_ohc=dhnqW5fdYnEAX9I7VlY&_nc_ht=scontent.fewr1-4.fna&oh=051c862980b0d123be2fba45270bf404&oe=5EC81526",
+      "website" : "https://arcncr.org/programs-services/treatment-foster-care/",
+      "contact" : "TFC@arcncr.org",
+      "date" : "2020-03-05T22:30:00.000Z",
+      "address" : {
+        "street" : "4513 Philadelphia Road",
+        "city" : "Aberdeen",
+        "state" : "MD"
+      },
+      "categories" : ["family", "non-profit"],
+      "volunteers" : 2,
+      "volunteersNeeded" : 5
+    },
+    {
+      "id" : 4,
+      "name" : "Mountain Christian Church Second Saturday Serve",
+      "description" : "Second Saturday Serve is a great way to meet new people, build friendships and be a part of Mountain culture! On the second Saturday of each month, we gather together to serve in various ways throughout our community. And, the best part is, you don't have to be skilled to participate. In fact, we have projects for all ages, interests and skill levels.Wear clothes that you can work in, both indoor and outdoor. Bring gloves if you have them!",
+      "img" : "https://www.mountaincc.org/images/full/SSS_Large.jpg",
+      "website" : "https://www.mountaincc.org/story.aspx?storyid=160",
+      "contact" : "410-877-1824",
+      "date" : "2020-03-14T12:30:00.000Z",
+      "address" : {
+        "street" : "1802 Mountain Rd",
+        "city" : "Joppa",
+        "state" : "MD"
+      },
+      "categories" : ["community", "religious"],
+      "volunteers" : 78,
+      "volunteersNeeded" : 100
+    },
+    {
+      "id" : 5,
+      "name" : "Station North Tool Library Shop Monitor",
+      "description" : "Wood Shop Monitors are responsible for members using our public wood shop. They should have hands-on experience with all of our equipment, which includes the planer, jointer, table saw, router table, etc. Many of our Open Shop users are new to woodworking, and monitors should create a welcoming and inclusive environment while making sure everyone is safe and supported.",
+      "img" : "https://images.squarespace-cdn.com/content/v1/547f5886e4b083f708d28d44/1560879326744-B1LTOI6X304IA19QLU3R/ke17ZwdGBToddI8pDm48kGDpvalPb1SqHoCn1hwN0Y57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmQPoRzxSr1hzN-vPBHt7YyLLXgctAyUJRqJUUGWVDK_ZzIgvsybGcZEPqUYiXY8im/image-asset.jpeg",
+      "website" : "https://www.stationnorthtoollibrary.org/volunteer",
+      "contact" : "info@stationnorthtoollibrary.org",
+      "date" : "2020-04-19T15:00:00.000Z",
+      "address" : {
+        "street" : "417 E Oliver St.",
+        "city" : "Baltimore",
+        "state" : "MD"
+      },
+      "categories" : ["community", "non-profit"],
+      "volunteers" : 1,
+      "volunteersNeeded" : 2
+    },
+    {
+      "id" : 6,
+      "name" : "EPICenter at Edgewood Health Fair & Food Giveaway Assistant",
+      "description" : "Bring a warm smile and a helping hand. Separate and organize food; host and greet attendees. Set up begins at 12:30pm; food distribution is 2:30-5pm.",
+      "img" : "https://mountaincc.org/images/full/Health-Fair_Large.jpg",
+      "website" : "http://epicenteratedgewood.com/volunteer/",
+      "contact" : "443-981-3742",
+      "date" : "2020-05-08T16:30:00.000Z",
+      "address" : {
+        "street" : "1918 Pulaski Highway",
+        "city" : "Edgewood",
+        "state" : "MD"
+      },
+      "categories" : ["community", "food", "non-profit"],
+      "volunteers" : 25,
+      "volunteersNeeded" : 40
+    },
+    {
+      "id" : 7,
+      "name" : "Cook & Serve Dinner at the FCCAU Welcome One Emergency Shelter",
+      "description" : "Volunteers come from all over Harford County and surrounding communities to offer and share their skills, caring and support to the homeless men and women who reside at our shelter. Volunteers experience the opportunity to be part of a compassionate environment that nurtures people during the most difficult time of their life as they work to turn their lives around. You will leave Welcome One knowing you have made a difference in the lives of many people.",
+      "img" : "https://www.food-finders.org/wp-content/uploads/2017/07/pantry-volunteer.jpg",
+      "website" : "https://welcomeoneshelter.com/how-you-can-help/",
+      "contact" : "410-272-2229",
+      "date" : "2020-05-12T21:00:00.000Z",
+      "address" : {
+        "street" : "1221-C Brass Mill Road",
+        "city" : "Belcamp",
+        "state" : "MD"
+      },
+      "categories" : ["community", "family", "food", "non-profit"],
+      "volunteers" : 3,
+      "volunteersNeeded" : 7
+    }
+  ]
+}
